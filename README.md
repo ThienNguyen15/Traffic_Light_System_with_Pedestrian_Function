@@ -1,4 +1,3 @@
-# Assignment_MCU
 ## General Information:
 - Major components: Custom board with STM32F103RBT6 MCU (Clock is 64MHz)
 - Supporting communication protocol: UART
