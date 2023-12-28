@@ -1,0 +1,15 @@
+displayLed.c:11:6:clearAllLed1	8	static
+displayLed.c:17:6:clearAllLed2	8	static
+displayLed.c:22:6:displayRed1	8	static
+displayLed.c:29:6:displayYellow1	8	static
+displayLed.c:35:6:displayGreen1	8	static
+displayLed.c:41:6:displayRed2	8	static
+displayLed.c:48:6:displayYellow2	8	static
+displayLed.c:54:6:displayGreen2	8	static
+displayLed.c:60:6:toggleRed	8	static
+displayLed.c:66:6:toggleYellow	8	static
+displayLed.c:74:6:toggleGreen	8	static
+displayLed.c:80:6:clearPedestrian	8	static
+displayLed.c:86:6:displayPedestrianRed	8	static
+displayLed.c:92:6:displayPedestrianYellow	8	static
+displayLed.c:98:6:displayPedestrianGreen	8	static
