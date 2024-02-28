@@ -1,5 +1,5 @@
 # Assignment_MCU_Microprocessors_and_Microcontrollers
-## General Information:
+### General Information:
 - Major components: Custom board with STM32F103RBT6 MCU (Clock is 64MHz)
 - Supporting communication protocol: UART
 - Purpose: The project simulates a two-way traffic signal system following key features:
